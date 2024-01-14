@@ -22,7 +22,7 @@ Confusion matrices and accuracy scores are displayed to assess the model's perfo
 Review the code comments for explanations of each step.
 Explore the results to understand the predictive capabilities of the decision tree.
 
-Notes
+Notes <br>
 The dataset used is the Carseats dataset, and the response variable is created based on the 'Sales' variable.
 Cross-validation and pruning techniques are employed to optimize the decision tree model.
 
